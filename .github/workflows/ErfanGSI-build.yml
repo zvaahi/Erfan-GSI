@@ -6,7 +6,8 @@ on:
       ROM_URL:
         description: 'Direct link/直链'
         required: true
-        default: 'https://mirrorbits.lineageos.org/full/sagit/20230302/lineage-20.0-20230302-nightly-sagit-signed.zip'
+        description: 'https://netix.dl.sourceforge.net/project/superiorextended/marble/gapps/SuperiorExtended-OFFICIAL-14-marble-GAPPS-20240310-1500.zip'
+         default: 
       REPACK_NAME:
         description: 'Compressed name/打包名称'
         required: true
