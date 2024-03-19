@@ -7,7 +7,7 @@ on:
         description: 'Direct link/直链'
         required: true
         description: 'https://netix.dl.sourceforge.net/project/superiorextended/marble/gapps/SuperiorExtended-OFFICIAL-14-marble-GAPPS-20240310-1500.zip'
-         default: 
+         default:
       REPACK_NAME:
         description: 'Compressed name/打包名称'
         required: true
